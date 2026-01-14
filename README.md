@@ -45,7 +45,9 @@ Teaching students from:
 - 🇪🇬 Egypt
 - 🇶🇦 Qatar
 - 🇸🇦 Saudi Arabia
-- 🌐 Other Gulf countries
+- 🇰🇼 Kuwait
+- 🇧🇭 Bahrain
+- 🇦🇪 UAE
 
 ---
 
